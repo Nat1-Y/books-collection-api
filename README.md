@@ -33,6 +33,6 @@ A **RESTful API** for managing a collection of books. This API allows users to p
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Nat1-Y/books-collection-api/tree/main
    cd books-api
 # books-collection-api
